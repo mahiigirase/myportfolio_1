@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ a{
+   font-family:cursive;
+   text-decoration: none;
+   color: black;
+
+}
+h1{
+    font-family:cursive;
+}
+ .hero{
+    padding-top: 15rem;
+    padding-bottom: 10rem;
+    background-image:url(./forest-3119826_1280.jpg);
+    color:white;
+    height: 90vh;
+    width: 100%;
+
+ }
+ .herohead{
+    font-family:cursive;
+ }
+ .middle{
+    font-size:20px;
+    font-weight: 600;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ /* 
+ .centerd{
+    top: 50%;
+    bottom: 50%;
+    position: absolute;
+ } */
+ .service{
+    background-color:yellow;
+    border-radius: 20px;
+    color: white;
+    padding: 15px;
+    font-size:6rem;
+ }
+ .circle-rounded{
+    border-radius: 50%;
+    height: 15rem;
+    width: 15rem;
+    border-width: 1rem;
+ }
+ textarea{
+ height: 80%;
+ }
+
+ .contact{
+     background-color:rgba(0, 0, 0, 0.416);
+     color: white;
+ }
